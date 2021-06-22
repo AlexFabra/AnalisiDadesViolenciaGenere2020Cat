@@ -1,0 +1,79 @@
+El número total de denúncies el 2020 va ser de 14514
+
+Denúncies amb edat Sense especificar = 1021
+Denúncies amb edat Entre 41 i 50 anys = 3790
+Denúncies amb edat Entre 18 i 31 anys = 2039
+Denúncies amb edat Més de 60 anys = 863
+Denúncies amb edat Menors de 18 anys = 163
+Denúncies amb edat Entre 51 i 60 anys = 1170
+Denúncies amb edat Entre 31 i 40 anys = 5468
+
+Relació amb l'agressor:
+Pare = 124
+Parella = 7258
+Germà/germans = 75
+Sense especificar = 3150
+Altres familiars = 92
+Fill/fills = 250
+Exparella = 3565
+
+Anys de relació amb l'agressor:
+Més de 20 anys = 1109
+Entre 1 i 5 anys = 3534
+Sense especificar = 3834
+Entre 10 i 20 anys = 1809
+1 any o menys = 855
+Entre 6 i 10 anys = 3373
+
+Anys de relació amb la parella:
+Més de 20 anys = 948
+Entre 1 i 5 anys = 2120
+Sense especificar = 147
+Entre 10 i 20 anys = 1336
+1 any o menys = 476
+Entre 6 i 10 anys = 2231
+
+Denúncies de violencia domèstica?
+No = 5649
+Sense especificar = 2647
+Sí = 6218
+
+Denuncies formulades per: 
+Professional = 429
+Anònim = 589
+Familiar o persona propera = 2714
+La pròpia usuària = 10782
+
+Relació entre qui truca i la formació de la pressumpta víctima:
+qui truca: Anònim. Formació de la víctima: Estudis primaris = 67
+qui truca: Anònim. Formació de la víctima: Estudis secundaris = 73
+qui truca: Anònim. Formació de la víctima: Estudis superiors = 61
+qui truca: Anònim. Formació de la víctima: No consta = 356
+qui truca: Anònim. Formació de la víctima: Sense estudis = 32
+qui truca: Familiar o persona propera. Formació de la víctima: Estudis primaris = 754
+qui truca: Familiar o persona propera. Formació de la víctima: Estudis secundaris = 882
+qui truca: Familiar o persona propera. Formació de la víctima: Estudis superiors = 164
+qui truca: Familiar o persona propera. Formació de la víctima: No consta = 858
+qui truca: Familiar o persona propera. Formació de la víctima: Sense estudis = 56
+qui truca: La pròpia usuària. Formació de la víctima: Estudis primaris = 3056
+qui truca: La pròpia usuària. Formació de la víctima: Estudis secundaris = 3772
+qui truca: La pròpia usuària. Formació de la víctima: Estudis superiors = 725
+qui truca: La pròpia usuària. Formació de la víctima: No consta = 2959
+qui truca: La pròpia usuària. Formació de la víctima: Sense estudis = 270
+qui truca: Professional. Formació de la víctima: Estudis primaris = 92
+qui truca: Professional. Formació de la víctima: Estudis secundaris = 79
+qui truca: Professional. Formació de la víctima: Estudis superiors = 29
+qui truca: Professional. Formació de la víctima: No consta = 226
+qui truca: Professional. Formació de la víctima: Sense estudis = 3
+
+El número de denúncies per maltracte: 
+físic =5446
+sexual =470
+econòmic =1286
+psicològic =13188
+
+Percentatges de denúncies: 
+Per violència sexual = 3
+Per violència física = 37
+Per violència psicológica = 90
+Per violència Econòmica = 8
